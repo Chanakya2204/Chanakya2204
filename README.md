@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **React, Vue, firebase, MERN stack development**
 
-- 📫 How to reach me **Beherakumarbinay@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uBVyEknjrPsKblpV3P1T7ohBFZi6aAct/view?usp=drive_link](https://drive.google.com/file/d/1uBVyEknjrPsKblpV3P1T7ohBFZi6aAct/view?usp=drive_link)
 
 - ⚡ Fun fact **Even though I’m a civil engineering student, I debug JavaScript better than I can design a truss 😄**
